@@ -31,7 +31,7 @@
     <p>Already have an account? <a href="#">Sign in</a>.</p>
   </div>
 
-   <h1> END to end pipeline has been completed successfully </h1>
+   <h1>Fully modified the index page</h1>
 
   
 </form>
